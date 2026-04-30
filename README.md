@@ -3,10 +3,7 @@
 
 The goal of this project is to learn and demonstrate:
 
-- How to build a FastAPI backend project
-- How to structure a backend project properly
 - How to use OOP concepts in Python
-- How to separate code into models, schemas, repositories, services, and routes
 - How request validation and response formatting work in FastAPI
 - How to write basic API tests
 
